@@ -8,5 +8,5 @@ A paragraph with *emphasis* and **strong importance**.
 
 A table:
 
-| - | - |
 | a | b |
+| - | - |
